@@ -98,7 +98,7 @@ It is a quiet, orderly workspace.
 ## Screenshot
 
 <div style="text-align: center;">
-  <img src="screenshot/xplorer-editor-swapped-panes.png" />
+  <img src="screenshots/xplorer-editor-swapped-panes.png" />
 </div>
 
 
