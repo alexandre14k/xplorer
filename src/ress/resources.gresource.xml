@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="local/alexandre14/xplorer">
+    <file>xplorer.png</file>
+  </gresource>
+</gresources>
