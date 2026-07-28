@@ -95,6 +95,13 @@ This structure allows you to debug a printing issue in PrintDialog without trave
 
 It is a quiet, orderly workspace.
 
+## Screenshot
+
+<div style="text-align: center;">
+  <img src="screenshot/xplorer-editor-swapped-panes.png" />
+</div>
+
+
 ## License
 
 SPDX-License-Identifier: AGPL-3.0-or-later
