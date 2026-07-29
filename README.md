@@ -191,12 +191,15 @@ dpkg-deb: construction du paquet « local.alexandre14k.xplorer » dans « prod/x
 cleaning up intermediate files...
 
 done: prod/xplorer-editor_1.0.0_gcc-amd64.deb
+```
 
-install method: sudo apt install ./prod/xplorer-editor_1.0.0_gcc-amd64.deb
+## Install
+```bash
+sudo apt install ./prod/xplorer-editor_1.0.0_gcc-amd64.deb
+```
 
-once done launch it from your app menu or by typing 'xplorer' in the terminal.
-
-# as already installed the shell recognizes it and allows to call it
+Launch it from your app menu or by typing 'xplorer' in the terminal.
+```bash
 [xplorer]> xplorer 
 [ LOG ] Loading config...
 [ LOG ] MenuBar Initialized
@@ -207,7 +210,12 @@ once done launch it from your app menu or by typing 'xplorer' in the terminal.
 [ LOG ] Saving config...
 MESA-INTEL: warning: ../src/intel/vulkan/anv_formats.c:949: FINISHME: support YUV colorspace with DRM format modifiers
 MESA-INTEL: warning: ../src/intel/vulkan/anv_formats.c:981: FINISHME: support more multi-planar formats with DRM modifiers
+```
+
+## Uninstall
+```bash
 [xplorer]> 
+sudo apt remove local.alexandre14.xplorer
 ```
 
 ## Icon
