@@ -3,6 +3,8 @@
 A thoughtful, minimal editor built with GTK4, VTE, and WebKit.
 Features an integrated terminal, web browser, and syntax highlighting.
 
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=alexandre14k&repo=https://github.com/alexandre14k/xplorer&label=Views&labelColor=%23555555&countColor=%23007EC6)
+
 ## Architecture
 
 A graphical application, much like a well-built city, requires distinct districts for its various functions.
